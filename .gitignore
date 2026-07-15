@@ -1,0 +1,13 @@
+*.exe
+*.obj
+packages/
+x64/
+x86/
+Debug/
+*.dll
+*.pdb
+*.lib
+*.user
+.vs/
+*.suo
+*.ilk

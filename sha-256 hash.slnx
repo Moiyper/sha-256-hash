@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="sha-256 hash/sha-256 hash.vcxproj" Id="38ff503a-4178-4038-86d3-43c4bb2b1371" />
+</Solution>
