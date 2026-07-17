@@ -145,6 +145,9 @@
   <ItemGroup>
     <None Include="packages.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="sha256logic.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
     <Import Project="..\packages\openssl-native.3.5.5\build\native\openssl-native.targets" Condition="Exists('..\packages\openssl-native.3.5.5\build\native\openssl-native.targets')" />
